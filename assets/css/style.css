@@ -14,10 +14,9 @@ body{
 /* nambar */
 /* = = = = = = = = = */
 .navbar .navbar-brand .img-fluid{
-    width: 300.11px;
+    width: 150px;
 }
-.img-thumbnail .img-fluid {
-}
+
 .navbar .navbar-nav .nav-item .nav-link{
     margin: 0 17px;
     font-weight: 600;
