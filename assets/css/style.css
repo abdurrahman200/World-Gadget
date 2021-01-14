@@ -11,7 +11,7 @@ body{
     color: #363958;
 }
 /* = = = = = = = = = */
-/* Hero */
+/* nambar */
 /* = = = = = = = = = */
 .navbar .navbar-brand .img-fluid{
     width: 300.11px;
@@ -68,6 +68,10 @@ body{
     margin-bottom: 50px;
     letter-spacing: 1px;
 }
+/*=====================*/
+/* shipping */
+/*=====================*/
+
 .shipping {
     margin-top: 100px;
     margin-bottom: 100px;
@@ -79,34 +83,69 @@ body{
     width: 100px;
 }
 .right{
-    margin-left: 10%;
+    padding-left: 5%;
     width: 100%;
 }
-.Payment{
-    border-top: 5px solid #ddd;
+/*=======================*/
+/* footer  */
+/*==================*/
+.footer{
+    border-top: 5px solid #ccc;
 }
-.Payment h1 {
+.footer h1 {
     color: #fff;
     font-weight: 500;
     letter-spacing: 1px;
 }
-.Payment .img-fluid{
+.footer .img-fluid{
     padding:0 10px;
     width: 80px;
     margin-top: 15px;
 }
+/*=======================*/
+/* SERVICE  */
+/*==================*/
+.footer h3 {
+    font-family: Bebas Neue;
+    color: #FFF;
+    font-style: normal;
+    font-weight:500;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+.footer .nav-link {
+    color: #fff;
+}
+/*=======================*/
+/* Contact Us */
+/*==================*/
 .form-control{
     border: none;
-    border-bottom: 2px solid rgb(4, 116, 160);
-    background-color: #0ba3c2 ;
-    border-radius: 0px;
+    background-color: #105c6e ;
+    border-radius: 2px;
+    color: #fff;
 }
 .form-control:focus {
-    background-color: #05839cea ;
-    border: none;
+    background-color: #0d809c;
+    border-bottom: 2px solid rgb(4, 116, 160);
+}
+/* Chrome, Firefox, Opera, Safari 10.1+ */
+.form-control::placeholder{
+    opacity: 1; /* Firefox */
     color: #fff;
 }
 .btn-block {
     width: 100%;
     border-radius: 0px;
+}
+
+/*=======================*/
+/* Bootstrap Font bi */
+/*==================*/
+
+.bi {
+    color: ##082a43;
+    padding: 10px;
 }
