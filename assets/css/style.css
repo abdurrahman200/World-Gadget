@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Rajdhani', sans-serif;
+    text-rendering: optimizeLegibility;
+    font-weight: 500;
+    line-height: 1.3rem;
+    color: #363958;
+}
+/* = = = = = = = = = */
+/* Hero */
+/* = = = = = = = = = */
+.navbar .navbar-brand .img-fluid{
+    width: 300.11px;
+}
+.img-thumbnail .img-fluid {
+}
+.navbar .navbar-nav .nav-item .nav-link{
+    margin: 0 17px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.img-thumbnail {
+    border: none;
+}
+/* = = = = = = = = = */
+/* Hero */
+/* = = = = = = = = = */
+.container{
+    margin-bottom: 50px;
+}
+#hero .hero-text h1{
+    font-family: Bebas Neue;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 50px;
+    color: #363958;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#hero .hero-text .d-block{
+    color: #FA804C;
+}
+.btn {
+    background: linear-gradient(180deg, #3df3f3 0%, #35a1bc 100%);
+    border-radius: 8px;
+    color: #fff;
+    font-weight: 600;
+    width: 170px;
+    padding: 15px 0px;
+}
+/*=====================*/
+/* Main */
+/*=====================*/
+.container h1 {
+    font-family: Bebas Neue;
+    color: #363958;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 50px;
+}
+.shipping {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.shipping .img{
+    margin-right: 30px;
+}
+.shipping .cat {
+    width: 100px;
+}
+.right{
+    margin-left: 10%;
+    width: 100%;
+}
+.Payment{
+    border-top: 5px solid #ddd;
+}
+.Payment h1 {
+    color: #fff;
+    font-weight: 500;
+}
+.Payment .img-fluid{
+    padding:0 10px;
+    width: 80px;
+    margin-top: 15px;
+}
+.form-control{
+    border: none;
+    border-bottom: 2px solid rgb(4, 116, 160);
+    background-color: #0ba3c2 ;
+    border-radius: 0px;
+}
+.form-control:focus {
+    background-color: #05839cea ;
+    border: none;
+    color: #fff;
+}
+.btn-block {
+    width: 100%;
+    border-radius: 0px;
+}

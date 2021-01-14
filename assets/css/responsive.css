@@ -1,0 +1,12 @@
+@media screen and (max-width: 390px){
+	.navbar .navbar-brand .img-fluid {
+		width: 200px;
+	}
+
+	#hero .hero-text h1{
+		
+		font-size: 50px;
+		line-height: 50px;
+	}
+
+}
