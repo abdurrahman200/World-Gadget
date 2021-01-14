@@ -71,7 +71,6 @@ body{
 /*=====================*/
 /* shipping */
 /*=====================*/
-
 .shipping {
     margin-top: 100px;
     margin-bottom: 100px;
@@ -116,7 +115,8 @@ body{
     letter-spacing: 1px;
 }
 .footer .nav-link {
-    color: #fff;
+    color: #082a43;
+    letter-spacing: 1px;
 }
 /*=======================*/
 /* Contact Us */
@@ -140,12 +140,10 @@ body{
     width: 100%;
     border-radius: 0px;
 }
-
 /*=======================*/
 /* Bootstrap Font bi */
 /*==================*/
-
 .bi {
-    color: ##082a43;
+    color: #082a43;
     padding: 10px;
 }
