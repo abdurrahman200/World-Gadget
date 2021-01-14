@@ -132,7 +132,6 @@ body{
 }
 .form-control:focus {
     background-color: #0d809c;
-    border-bottom: 2px solid rgb(4, 116, 160);
 }
 /* Chrome, Firefox, Opera, Safari 10.1+ */
 .form-control::placeholder{
