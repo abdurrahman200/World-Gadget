@@ -2,44 +2,35 @@
 	.navbar .navbar-brand .img-fluid {
 		width: 200px;
 	}
-
 	#hero .hero-text h1{
-		
+
 		font-size: 50px;
 		line-height: 50px;
 	}
-
 }
-
 @media screen and (max-width: 768px){
 	#shipping  {
 		text-align: center;
 	}
-
-
 	#shipping .img-fluid {
 		margin-bottom: 20px;
 	}
-
 	#Laptop .img-fluid {
 		display: block;
 		text-align: center;
 		width: 334px;
 		margin:30px auto;
 	}
-
 	#Smartphone .img-fluid {
 		display: block;
 		text-align: center;
 		width: 334px;
 		margin:30px auto;
 	}
-
 	#Gadget .img-fluid {
 		display: block;
 		text-align: center;
 		width: 334px;
 		margin:30px auto;
 	}
-
 }
