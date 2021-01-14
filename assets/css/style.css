@@ -66,6 +66,7 @@ body{
     letter-spacing: 0em;
     text-align: left;
     margin-bottom: 50px;
+    letter-spacing: 1px;
 }
 .shipping {
     margin-top: 100px;
@@ -87,6 +88,7 @@ body{
 .Payment h1 {
     color: #fff;
     font-weight: 500;
+    letter-spacing: 1px;
 }
 .Payment .img-fluid{
     padding:0 10px;
