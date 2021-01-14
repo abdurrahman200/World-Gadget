@@ -10,3 +10,15 @@
 	}
 
 }
+
+@media screen and (max-width: 768px){
+	#shipping  {
+		text-align: center;
+	}
+
+
+	#shipping .img-fluid {
+		margin-bottom: 20px;
+	}
+
+}
