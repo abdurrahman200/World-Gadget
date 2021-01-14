@@ -45,7 +45,7 @@ body{
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 #hero .hero-text .d-block{
-    color: #FA804C;
+    color: #0dcaf0;
 }
 .btn {
     background: linear-gradient(180deg, #3df3f3 0%, #35a1bc 100%);
