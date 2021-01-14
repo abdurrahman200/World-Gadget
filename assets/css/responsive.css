@@ -21,4 +21,25 @@
 		margin-bottom: 20px;
 	}
 
+	#Laptop .img-fluid {
+		display: block;
+		text-align: center;
+		width: 334px;
+		margin:30px auto;
+	}
+
+	#Smartphone .img-fluid {
+		display: block;
+		text-align: center;
+		width: 334px;
+		margin:30px auto;
+	}
+
+	#Gadget .img-fluid {
+		display: block;
+		text-align: center;
+		width: 334px;
+		margin:30px auto;
+	}
+
 }
