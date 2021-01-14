@@ -118,6 +118,7 @@ body{
     color: #fff;
     letter-spacing: 1px;
     font-weight: 700px;
+    text-transform: capitalize;
 }
 /*=======================*/
 /* Contact Us */
@@ -144,7 +145,7 @@ body{
 /*=======================*/
 /* Bootstrap Font bi */
 /*==================*/
-.bi {
+.footer .img .bi {
     color: #082a43;
     padding: 10px;
 }
